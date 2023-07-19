@@ -4,9 +4,7 @@ openai.api_type = "azure"
 
 openai.api_version = "2023-05-15"
 
-openai.api_base = "https://ai-training0.openai.azure.com/" 
 
-openai.api_key = "ad32fb199aab424f8ccc264b8ac08bec"
 
 class LLM:
     def __init__(self) :
